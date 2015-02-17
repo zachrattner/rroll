@@ -1,0 +1,42 @@
+I will admit that I had already owned most of these parts and tools from 
+previous projects before I started working on this project. If I had to 
+buy all of the parts just for this project, I probably wouldn't have done it. 
+But maybe you just really want to Rickroll someone. With that said, the 
+complete part and tool listings follow:
+
+PARTS:
+Arduino Uno        -  $29.95 - https://www.sparkfun.com/products/11021
+MP3 Player Shield  -  $39.95 - https://www.sparkfun.com/products/10628 
+Micro SD Card      -   $4.29 - http://www.amazon.com/Sandisk-MicroSDHC-Memory-Adapter-Packaging/dp/B000SMVQK8
+Portable Speakers  -  $27.49 - http://www.amazon.com/Altec-Lansing-iM227-Orbit-Speaker/dp/B004CYKEBK
+Ultrasonic Sensor  -  $25.95 - https://www.sparkfun.com/products/639
+3x AAA Batteries   -   $4.99 - http://www.radioshack.com/product/index.jsp?productId=3780264
+9V Battery         -   $4.99 - http://www.radioshack.com/product/index.jsp?productId=3897297
+9V Battery Clip    -   $1.09 - http://www.radioshack.com/product/index.jsp?productId=2062220
+9V Battery Cable   -   $2.95 - https://www.sparkfun.com/products/9518
+Aluminum Enclosure -   $5.95 - https://www.sparkfun.com/products/11351
+Hookup Wire        -  $11.95 - http://www.elexp.com/cbl_ld25.htm (Solid Wire Kit)
+Prototyping Board  -   $8.15 - http://www.amazon.com/Perforated-Board-4-5-3-1-320-430/dp/B0002ZPUDK
+Screw Terminals    -   $0.95 - https://www.sparkfun.com/products/8433
+Rubber Feet        -   $4.05 - http://www.amazon.com/StarTech-4-Inch-Self-Adhesive-Rubber-RUBBERFEET/dp/B00032Q30Q
+Lead-Free Solder   -   $7.95 - https://www.sparkfun.com/products/9325
+Krazy Glue         -   $3.32 - http://www.amazon.com/KG48348MR-Instant-Advanced-Precision-0-18-Ounce/dp/B000BKO6DG
+Hot Glue Sticks    -   $5.36 - http://www.amazon.com/Stanley-GS20DT-Temperature-4-Inch-24-Pack/dp/B0006HVUSS 
+TOTAL              - $189.33
+
+TOOLS:
+Philips Head Screwdriver - For adjusting the screw terminals and closing the housing
+Soldering Iron           - For making the ultrasonic sensor daughterboard
+Solder Sucker            - Only if you make mistakes
+Wire Cutters             - For trimming hookup wire
+Wire Strippers           - For baring hookup wire core
+Cordless Drill           - For drilling holes in the enclosure
+Dremel                   - For cuting the prototyping board
+Hot Glue Gun             - For attaching the electronics inside the housing
+
+If you have any questions, feel free to contact me at info@zachrattner.com. 
+
+Thanks,
+Zach Rattner
+January 2013
+La Mesa, CA
